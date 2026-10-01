@@ -1,0 +1,9 @@
+# ==========================================
+# CONFIGURATION TEMPLATE
+# Copy this file
+# Rename it to 'config.yaml'
+# Fill in your actual local values
+# ==========================================
+
+excel_filename: "YOUR_FILE_NAME_HERE.xlsx"
+form_url: "YOUR_MICROSOFT_FORM_URL_HERE"
