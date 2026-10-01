@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project Specific Additions ---
+
+# 1. Protect local excel data files
+*.xlsx
+*.xls
+
+# 2. Ignore local log files 
+*.log
+logs/
+
+# 3. Ignore Mac Finder metadata files
+.DS_Store
