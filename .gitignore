@@ -229,3 +229,6 @@ logs/
 
 # 3. Ignore Mac Finder metadata files
 .DS_Store
+
+#4 Ignore local configuration files
+config.yaml
